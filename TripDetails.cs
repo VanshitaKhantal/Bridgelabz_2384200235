@@ -29,18 +29,16 @@ class TripDetails
         Console.Write("Enter distance from via city to final city (in miles): ");
         double viaToFinalCity = Convert.ToDouble(Console.ReadLine());
 
-        // Taking user input to enter time taken 
-        Console.Write("Enter total time taken for the journey (in hours): ");
-        double timeTaken = Convert.ToDouble(Console.ReadLine());
+        // Taking user input to enter time taken from to via 
+        Console.Write("Enter time taken for the journey from to via (in hours): ");
+        double timeFromToVia = Convert.ToDouble(Console.ReadLine());
 		
-        // Create variables for distances and times
-        double distanceFromToVia = 156.6;
-        double timeFromToVia = 4 * 60 + 4; // Time in minutes
-        double distanceViaToFinalCity = 211.8;
-        double timeViaToFinalCity = 4 * 60 + 25; // Time in minutes
-
+		// Taking user input to enter time taken via to final
+        Console.Write("Enter time taken for the journey via to final (in hours): ");
+        double timeViaToFinalCity = Convert.ToDouble(Console.ReadLine());
+        
         // Compute the total distance and total time
-        double totalDistance = distanceFromToVia + distanceViaToFinalCity;
+        double totalDistance = fromToVia + viaToFinalCity;
         double totalTime = timeFromToVia + timeViaToFinalCity;
 
 	    // Display the results
