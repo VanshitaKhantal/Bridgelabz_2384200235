@@ -1,37 +1,34 @@
 ﻿using System;
 
-class Course
+class Vehicle
 {
-    // Class variable to store the common institute name for all courses
-    public static string instituteName = "GLA University";
+    // Class variable to store the fixed registration fee for all vehicles
+    public static double registrationFee = 500.0;
 
     // Instance variables
-    public string courseName;
-    public double duration; // Duration in years
-    public double fee;
+    public string ownerName;
+    public string vehicleType;
 
-    // Constructor to initialize the course details
-    public Course(string courseName, double duration, double fee)
+    // Constructor to initialize the vehicle details
+    public Vehicle(string ownerName, string vehicleType)
     {
-        this.courseName = courseName;
-        this.duration = duration;
-        this.fee = fee;
+        this.ownerName = ownerName;
+        this.vehicleType = vehicleType;
     }
 
-    // Instance method to display the details of the course
-    public void DisplayCourseDetails()
+    // Instance method to display the owner and vehicle details
+    public void DisplayVehicleDetails()
     {
-        Console.WriteLine($"Institute: {instituteName}");
-        Console.WriteLine($"Course Name: {courseName}");
-        Console.WriteLine($"Duration: {duration} years");
-        Console.WriteLine($"Fee: {fee}");
+        Console.WriteLine($"Owner Name: {ownerName}");
+        Console.WriteLine($"Vehicle Type: {vehicleType}");
+        Console.WriteLine($"Registration Fee: {registrationFee}");
     }
 
-    // Class method to update the institute name for all courses
-    public static void UpdateInstituteName(string newInstituteName)
+    // Class method to update the registration fee for all vehicles
+    public static void UpdateRegistrationFee(double newFee)
     {
-        instituteName = newInstituteName;
-        Console.WriteLine($"Institute name updated to: {instituteName}");
+        registrationFee = newFee;
+        Console.WriteLine($"Registration fee updated to: {registrationFee}");
     }
 }
 
@@ -39,21 +36,21 @@ class Program
 {
     static void Main()
     {
-        // Creating course instances
-        Course course1 = new Course("MCA", 2, 150000);
-        Course course2 = new Course("Btech. - CS", 4, 200000);
+        // Creating vehicle instances
+        Vehicle vehicle1 = new Vehicle("Vanshita Khantal", "Car");
+        Vehicle vehicle2 = new Vehicle("Simran Khantal", "Scooty");
 
-        // Displaying course details before updating the institute name
-        Console.WriteLine("Before updating institute name:\n");
-        course1.DisplayCourseDetails();
-        course2.DisplayCourseDetails();
+        // Displaying vehicle details before updating the registration fee
+        Console.WriteLine("Before updating registration fee:\n");
+        vehicle1.DisplayVehicleDetails();
+        vehicle2.DisplayVehicleDetails();
 
-        // Updating institute name for all courses
-        Course.UpdateInstituteName("GL Bajaj");
+        // Updating the registration fee for all vehicles
+        Vehicle.UpdateRegistrationFee(1000.0);
 
-        // Displaying course details after updating the institute name
-        Console.WriteLine("\nAfter updating institute name:\n");
-        course1.DisplayCourseDetails();
-        course2.DisplayCourseDetails();
+        // Displaying vehicle details after updating the registration fee
+        Console.WriteLine("\nAfter updating registration fee:\n");
+        vehicle1.DisplayVehicleDetails();
+        vehicle2.DisplayVehicleDetails();
     }
 }
