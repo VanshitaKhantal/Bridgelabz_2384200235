@@ -55,3 +55,10 @@
 2. is operator, readonly, this and static keyword
 3. Practice Problem based on OOPs Concept
 -----------------------------------------------------------------------------
+06-02-2025
+
+1. Learned about HasA Realtionship - Association, Aggregation, Composition
+2. Practice Problem based on HasA Relationship
+3. Understanding the concept of Class Diagram, Sequence Diagram, Object Diagram
+4. Practice problem on Class Diagram, Sequence Diagram and Object Diagram
+-----------------------------------------------------------------------------
