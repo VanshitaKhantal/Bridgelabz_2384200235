@@ -62,3 +62,8 @@
 3. Understanding the concept of Class Diagram, Sequence Diagram, Object Diagram
 4. Practice problem on Class Diagram, Sequence Diagram and Object Diagram
 -----------------------------------------------------------------------------
+08-02-2025
+
+1. Learned about Inheritance
+2. Practice Problem on types of inheritance
+3. Brushing Up the basic Concepts of Interface and abstract classes
