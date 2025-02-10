@@ -67,3 +67,9 @@
 1. Learned about Inheritance
 2. Practice Problem on types of inheritance
 3. Brushing Up the basic Concepts of Interface and abstract classes
+-----------------------------------------------------------------------------
+10-02-2025
+
+1. Understanding OOPS concept Implementation
+2. Practice Problem on OOPS concept - Encapsulation, Inheritance, Polymorphism, Abstraction
+-----------------------------------------------------------------------------
