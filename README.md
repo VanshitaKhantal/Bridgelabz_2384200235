@@ -73,3 +73,9 @@
 1. Understanding OOPS concept Implementation
 2. Practice Problem on OOPS concept - Encapsulation, Inheritance, Polymorphism, Abstraction
 -----------------------------------------------------------------------------
+12-02-2025
+
+1. Data Structure - Linked List
+2. Linked List Types - Single , doubly and circular
+3. Practice Problem on Linked List Data Structure
+-----------------------------------------------------------------------------
