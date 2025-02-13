@@ -79,3 +79,8 @@
 2. Linked List Types - Single , doubly and circular
 3. Practice Problem on Linked List Data Structure
 -----------------------------------------------------------------------------
+13-02-2025
+
+1. Data Structure - Stack , Queue , Hash Map and hash functions
+2. Practice Problem on Stack , queue and hash map
+-----------------------------------------------------------------------------
