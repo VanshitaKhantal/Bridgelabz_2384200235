@@ -84,3 +84,9 @@
 1. Data Structure - Stack , Queue , Hash Map and hash functions
 2. Practice Problem on Stack , queue and hash map
 -----------------------------------------------------------------------------
+14-02-2025
+
+1. Sorting algorithms - Bubble, Insertion , Merge , Quick , Selection , Count , Heap sort
+2. Practice problems on Sorting algorithms
+3. Brushing Up the concept of sorting in csharp
+-----------------------------------------------------------------------------
