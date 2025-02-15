@@ -90,3 +90,9 @@
 2. Practice problems on Sorting algorithms
 3. Brushing Up the concept of sorting in csharp
 -----------------------------------------------------------------------------
+15-02-2025
+
+1. StringBuilder,InputStreamReader, FileReader, StringBuffer
+2. Practice problems solved on StringBuilder , String Buffer,FileReader and InputStreamReader
+3. Understanding the difference between String and StringBuilder
+----------------------------------------------------------
