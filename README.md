@@ -95,4 +95,9 @@
 1. StringBuilder,InputStreamReader, FileReader, StringBuffer
 2. Practice problems solved on StringBuilder , String Buffer,FileReader and InputStreamReader
 3. Understanding the difference between String and StringBuilder
-----------------------------------------------------------
+-----------------------------------------------------------------------------
+16-02-2025
+
+1. Searching - Linear and Binary Search
+2. Practice Problem on linear and binary search
+-----------------------------------------------------------------------------
