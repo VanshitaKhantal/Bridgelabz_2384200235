@@ -101,3 +101,8 @@
 1. Searching - Linear and Binary Search
 2. Practice Problem on linear and binary search
 -----------------------------------------------------------------------------
+17-02-2025
+
+1. Time and Space Complexity (Run-time Analysis and Big-O Notation)
+2. Practice problem on runtime analysis and Big-O Notation
+-----------------------------------------------------------------------------
