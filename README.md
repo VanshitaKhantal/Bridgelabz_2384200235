@@ -106,3 +106,8 @@
 1. Time and Space Complexity (Run-time Analysis and Big-O Notation)
 2. Practice problem on runtime analysis and Big-O Notation
 -----------------------------------------------------------------------------
+18-02-2025
+
+1. Generics - classes , methods 
+2. Practice Problem on generics classes and methods
+-----------------------------------------------------------------------------
