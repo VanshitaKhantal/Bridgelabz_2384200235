@@ -111,3 +111,8 @@
 1. Generics - classes , methods 
 2. Practice Problem on generics classes and methods
 -----------------------------------------------------------------------------
+19-02-2025
+
+1. Collections - List , Hashset , queue , HashMap
+2. Practice problems on collections
+-----------------------------------------------------------------------------
