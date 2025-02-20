@@ -116,3 +116,8 @@
 1. Collections - List , Hashset , queue , HashMap
 2. Practice problems on collections
 -----------------------------------------------------------------------------
+20-02-2025
+
+1. Streams - FileStreams , ObjectStreams , BufferedStreams , MemoryStreams
+2. Practice problems on Streams
+-----------------------------------------------------------------------------
