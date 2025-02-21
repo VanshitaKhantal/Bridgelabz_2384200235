@@ -121,3 +121,10 @@
 1. Streams - FileStreams , ObjectStreams , BufferedStreams , MemoryStreams
 2. Practice problems on Streams
 -----------------------------------------------------------------------------
+21-02-2025
+
+1. Exception Handling - try, catch , throw , finally
+2. Exception Propagation
+3. Custom Exception
+4. Practice problems in exception handling
+-----------------------------------------------------------------------------
