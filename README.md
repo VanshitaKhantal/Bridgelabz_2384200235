@@ -128,3 +128,10 @@
 3. Custom Exception
 4. Practice problems in exception handling
 -----------------------------------------------------------------------------
+22-02-2025
+
+1. Regular Expression
+2. Practice problems on regular expression
+3. NUnit Testing
+4. Practice problems on NUnit Testing
+-----------------------------------------------------------------------------
