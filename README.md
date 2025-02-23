@@ -135,3 +135,9 @@
 3. NUnit Testing
 4. Practice problems on NUnit Testing
 -----------------------------------------------------------------------------
+23-02-2025
+
+1. Reflection in C#
+2. Practice problems on reflection
+3. Revision of C# concepts
+-----------------------------------------------------------------------------
