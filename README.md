@@ -141,3 +141,10 @@
 2. Practice problems on reflection
 3. Revision of C# concepts
 -----------------------------------------------------------------------------
+24-02-2025
+
+1. Annotations in C#
+2. Custom Attribute (Annotations)
+3. Custom Attribute using Reflection
+4. Practice problems on annotations
+-----------------------------------------------------------------------------
