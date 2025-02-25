@@ -148,3 +148,9 @@
 3. Custom Attribute using Reflection
 4. Practice problems on annotations
 -----------------------------------------------------------------------------
+25-02-2025
+
+1. CSV Data Handling
+2. Using StreamReader and CSVHelper package
+3. Practice Problems on CSV data handling
+-----------------------------------------------------------------------------
