@@ -154,3 +154,10 @@
 2. Using StreamReader and CSVHelper package
 3. Practice Problems on CSV data handling
 -----------------------------------------------------------------------------
+26-02-2025
+
+1. JSON Data Handling
+2. Parsing JSON Data
+3. JSON Schema, Validation
+4. Practice problems on JSON Data
+-----------------------------------------------------------------------------
