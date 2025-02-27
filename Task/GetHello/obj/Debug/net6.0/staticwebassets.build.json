@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ofLUbjTKk3yAxjbQfYSeTcorsu9sMCgW3ozMcfKda/c=",
+  "Source": "GetHello",
+  "BasePath": "_content/GetHello",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

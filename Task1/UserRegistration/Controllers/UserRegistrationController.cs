@@ -1,0 +1,25 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using BusinessLayer.Service;
+
+namespace UserRegistration.Controllers
+{
+    [ApiController]
+    [Route("[controller]")]
+    public class UserRegistrationController : ControllerBase
+    {
+        UserRegistrationBL _userRegistrationBL;
+        public UserRegistrationController(UserRegistrationBL userRegistrationBL) 
+        {
+            _userRegistrationBL = userRegistrationBL;
+        }
+
+        public string registration()
+        {
+            String UserName = "root";
+            String Password = "root";
+
+            return _userRegistrationBL.registrationBL(UserName, Password);
+        }
+
+    }
+}
