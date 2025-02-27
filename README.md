@@ -161,3 +161,10 @@
 3. JSON Schema, Validation
 4. Practice problems on JSON Data
 -----------------------------------------------------------------------------
+27-02-2025
+
+1. WebAPI in C#
+2. Three tier Architecture of ASP.NET
+3. Middlewares , controllers , set method
+4. Tasks solved on WebAPI and three tier architecture
+-----------------------------------------------------------------------------
