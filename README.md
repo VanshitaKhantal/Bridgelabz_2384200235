@@ -168,3 +168,10 @@
 3. Middlewares , controllers , set method
 4. Tasks solved on WebAPI and three tier architecture
 -----------------------------------------------------------------------------
+28-02-2025
+
+1. WebAPI of login user and registration user
+2. Get and Post method 
+3. Run the application using postman
+4. Created a WEBAPI for user registration System
+-----------------------------------------------------------------------------
