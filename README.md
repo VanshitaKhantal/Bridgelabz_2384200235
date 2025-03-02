@@ -175,3 +175,10 @@
 3. Run the application using postman
 4. Created a WEBAPI for user registration System
 -----------------------------------------------------------------------------
+02-03-2025
+
+1. Logger(Nlog)
+2. IActionResult
+3. Exception Handling
+4. User registration task completed with logger and exception handling
+-----------------------------------------------------------------------------
