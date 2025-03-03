@@ -182,3 +182,10 @@
 3. Exception Handling
 4. User registration task completed with logger and exception handling
 -----------------------------------------------------------------------------
+03-03-2025
+
+1. Implemented Swagger
+2. Implemented Logger
+3. Implemented Context Layer
+4. Created Database Migration
+-----------------------------------------------------------------------------
