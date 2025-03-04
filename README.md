@@ -189,3 +189,10 @@
 3. Implemented Context Layer
 4. Created Database Migration
 -----------------------------------------------------------------------------
+04-03-2025
+
+1. Implemented different HTTP request using POSTMAN
+2. Adding Controller to the business Layer
+3. Adding parameters and made methods in the business layer
+4. Committed UC1 , UC2 , UC3 in the GreetingApplication
+-----------------------------------------------------------------------------
