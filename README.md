@@ -196,3 +196,12 @@
 3. Adding parameters and made methods in the business layer
 4. Committed UC1 , UC2 , UC3 in the GreetingApplication
 -----------------------------------------------------------------------------
+05-03-2025
+
+1. Saved the greeting message in the repository
+2. Find the greeting message by ID in the repository
+3. List all the messages in the repository
+4. Edit a greeting message in the Repository
+5. Delete a greeting message in the repository
+6. Committed UC4, UC5, UC6, UC7, UC8 in the GreetingApplication
+-----------------------------------------------------------------------------
