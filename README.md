@@ -205,3 +205,10 @@
 5. Delete a greeting message in the repository
 6. Committed UC4, UC5, UC6, UC7, UC8 in the GreetingApplication
 -----------------------------------------------------------------------------
+06-03-2025
+
+1. Implemented Jwt
+2. Implemented Redis Cache
+3. Implemented Global exception
+4. Implemented Redis cache in hello app project
+-----------------------------------------------------------------------------
