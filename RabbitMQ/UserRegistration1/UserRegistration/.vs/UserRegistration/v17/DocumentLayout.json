@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khant\\OneDrive\\Desktop\\RabbitMQUpdated\\UserRegistration1\\UserRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1DD91C-6302-410E-A4AD-68A5E3B729E2}|UserRegistration.csproj|c:\\users\\khant\\onedrive\\desktop\\rabbitmqupdated\\userregistration1\\userregistration\\controllers\\resetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1DD91C-6302-410E-A4AD-68A5E3B729E2}|UserRegistration.csproj|solutionrelative:controllers\\resetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1DD91C-6302-410E-A4AD-68A5E3B729E2}|UserRegistration.csproj|c:\\users\\khant\\onedrive\\desktop\\rabbitmqupdated\\userregistration1\\userregistration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F1DD91C-6302-410E-A4AD-68A5E3B729E2}|UserRegistration.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210D81F4-0A87-4B46-A301-98A62755738E}|..\\UserRegistrationML\\ModelLayer.csproj|c:\\users\\khant\\onedrive\\desktop\\rabbitmqupdated\\userregistration1\\userregistrationml\\dto\\messagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1DD91C-6302-410E-A4AD-68A5E3B729E2}|UserRegistration.csproj|c:\\users\\khant\\onedrive\\desktop\\rabbitmqupdated\\userregistration1\\userregistration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1DD91C-6302-410E-A4AD-68A5E3B729E2}|UserRegistration.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771A13D8-4A4D-4DB8-BD69-8C1E530ABA7E}|..\\UserRegistrationRL\\RepositoryLayer.csproj|c:\\users\\khant\\onedrive\\desktop\\rabbitmqupdated\\userregistration1\\userregistrationrl\\service\\resetpasswordrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F273586D-6DFD-4307-B83C-BDB82145F137}|..\\UserRegistrationBL\\BusinessLayer.csproj|c:\\users\\khant\\onedrive\\desktop\\rabbitmqupdated\\userregistration1\\userregistrationbl\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F273586D-6DFD-4307-B83C-BDB82145F137}|..\\UserRegistrationBL\\BusinessLayer.csproj|c:\\users\\khant\\onedrive\\desktop\\rabbitmqupdated\\userregistration1\\userregistrationbl\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F273586D-6DFD-4307-B83C-BDB82145F137}|..\\UserRegistrationBL\\BusinessLayer.csproj|c:\\users\\khant\\onedrive\\desktop\\rabbitmqupdated\\userregistration1\\userregistrationbl\\service\\rabbitmqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F273586D-6DFD-4307-B83C-BDB82145F137}|..\\UserRegistrationBL\\BusinessLayer.csproj|c:\\users\\khant\\onedrive\\desktop\\rabbitmqupdated\\userregistration1\\userregistrationbl\\service\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResetController.cs",
+              "DocumentMoniker": "C:\\Users\\khant\\OneDrive\\Desktop\\RabbitMQUpdated\\UserRegistration1\\UserRegistration\\Controllers\\ResetController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ResetController.cs",
+              "ToolTip": "C:\\Users\\khant\\OneDrive\\Desktop\\RabbitMQUpdated\\UserRegistration1\\UserRegistration\\Controllers\\ResetController.cs",
+              "RelativeToolTip": "Controllers\\ResetController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:50:52.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\khant\\OneDrive\\Desktop\\RabbitMQUpdated\\UserRegistration1\\UserRegistration\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\khant\\OneDrive\\Desktop\\RabbitMQUpdated\\UserRegistration1\\UserRegistration\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T17:49:44.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\khant\\OneDrive\\Desktop\\RabbitMQUpdated\\UserRegistration1\\UserRegistration\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\khant\\OneDrive\\Desktop\\RabbitMQUpdated\\UserRegistration1\\UserRegistration\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:48:05.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResetPasswordRL.cs",
+              "DocumentMoniker": "C:\\Users\\khant\\OneDrive\\Desktop\\RabbitMQUpdated\\UserRegistration1\\UserRegistrationRL\\Service\\ResetPasswordRL.cs",
+              "RelativeDocumentMoniker": "..\\UserRegistrationRL\\Service\\ResetPasswordRL.cs",
+              "ToolTip": "C:\\Users\\khant\\OneDrive\\Desktop\\RabbitMQUpdated\\UserRegistration1\\UserRegistrationRL\\Service\\ResetPasswordRL.cs",
+              "RelativeToolTip": "..\\UserRegistrationRL\\Service\\ResetPasswordRL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:47:13.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageModel.cs",
+              "DocumentMoniker": "C:\\Users\\khant\\OneDrive\\Desktop\\RabbitMQUpdated\\UserRegistration1\\UserRegistrationML\\DTO\\MessageModel.cs",
+              "RelativeDocumentMoniker": "..\\UserRegistrationML\\DTO\\MessageModel.cs",
+              "ToolTip": "C:\\Users\\khant\\OneDrive\\Desktop\\RabbitMQUpdated\\UserRegistration1\\UserRegistrationML\\DTO\\MessageModel.cs",
+              "RelativeToolTip": "..\\UserRegistrationML\\DTO\\MessageModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:46:22.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BusinessLayer",
+              "DocumentMoniker": "C:\\Users\\khant\\OneDrive\\Desktop\\RabbitMQUpdated\\UserRegistration1\\UserRegistrationBL\\BusinessLayer.csproj",
+              "RelativeDocumentMoniker": "..\\UserRegistrationBL\\BusinessLayer.csproj",
+              "ToolTip": "C:\\Users\\khant\\OneDrive\\Desktop\\RabbitMQUpdated\\UserRegistration1\\UserRegistrationBL\\BusinessLayer.csproj",
+              "RelativeToolTip": "..\\UserRegistrationBL\\BusinessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T17:46:10.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\khant\\OneDrive\\Desktop\\RabbitMQUpdated\\UserRegistration1\\UserRegistrationBL\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\UserRegistrationBL\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\khant\\OneDrive\\Desktop\\RabbitMQUpdated\\UserRegistration1\\UserRegistrationBL\\Service\\UserService.cs",
+              "RelativeToolTip": "..\\UserRegistrationBL\\Service\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:44:55.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RabbitMQProducer.cs",
+              "DocumentMoniker": "C:\\Users\\khant\\OneDrive\\Desktop\\RabbitMQUpdated\\UserRegistration1\\UserRegistrationBL\\Service\\RabbitMQProducer.cs",
+              "RelativeDocumentMoniker": "..\\UserRegistrationBL\\Service\\RabbitMQProducer.cs",
+              "ToolTip": "C:\\Users\\khant\\OneDrive\\Desktop\\RabbitMQUpdated\\UserRegistration1\\UserRegistrationBL\\Service\\RabbitMQProducer.cs",
+              "RelativeToolTip": "..\\UserRegistrationBL\\Service\\RabbitMQProducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:42:41.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RabbitMQConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\khant\\OneDrive\\Desktop\\RabbitMQUpdated\\UserRegistration1\\UserRegistrationBL\\Service\\RabbitMQConsumer.cs",
+              "RelativeDocumentMoniker": "..\\UserRegistrationBL\\Service\\RabbitMQConsumer.cs",
+              "ToolTip": "C:\\Users\\khant\\OneDrive\\Desktop\\RabbitMQUpdated\\UserRegistration1\\UserRegistrationBL\\Service\\RabbitMQConsumer.cs",
+              "RelativeToolTip": "..\\UserRegistrationBL\\Service\\RabbitMQConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:40:28.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
