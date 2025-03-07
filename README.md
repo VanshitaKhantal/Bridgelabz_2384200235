@@ -212,3 +212,10 @@
 3. Implemented Global exception
 4. Implemented Redis cache in hello app project
 -----------------------------------------------------------------------------
+07-03-2025
+
+1. RabbitMQ Implementation
+2. Salting
+3. SMTP mail generation
+-----------------------------------------------------------------------------
+
