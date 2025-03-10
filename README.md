@@ -218,4 +218,9 @@
 2. Salting
 3. SMTP mail generation
 -----------------------------------------------------------------------------
+10-03-2025
 
+1. Apply swagger and global exception
+2. Apply hashing algo(salting) for register and login
+3. Apply JWT into project
+-----------------------------------------------------------------------------
