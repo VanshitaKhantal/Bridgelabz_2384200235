@@ -224,3 +224,9 @@
 2. Apply hashing algo(salting) for register and login
 3. Apply JWT into project
 -----------------------------------------------------------------------------
+12-03-2025
+
+1. Primary and foreign key relationship
+2. Redis cache implementation in GreetingApplication
+3. RabbitMQ implementation in GreetingApplication
+-----------------------------------------------------------------------------
