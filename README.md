@@ -230,3 +230,9 @@
 2. Redis cache implementation in GreetingApplication
 3. RabbitMQ implementation in GreetingApplication
 -----------------------------------------------------------------------------
+17-03-2025
+
+1. Node.js Syntax
+2. Variables , DataTypes , Loops , Conditional Statements , Functions
+3. Practice problems on Loops , Conditional Statements , Functions , Mathematical Operations
+-----------------------------------------------------------------------------
