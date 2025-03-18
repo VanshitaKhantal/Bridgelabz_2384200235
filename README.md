@@ -236,3 +236,9 @@
 2. Variables , DataTypes , Loops , Conditional Statements , Functions
 3. Practice problems on Loops , Conditional Statements , Functions , Mathematical Operations
 -----------------------------------------------------------------------------
+18-03-2025
+
+1. Arrays 
+2. Map/HashMap
+3. Practice problems on arrays and map
+-----------------------------------------------------------------------------
