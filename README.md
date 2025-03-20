@@ -242,3 +242,9 @@
 2. Map/HashMap
 3. Practice problems on arrays and map
 -----------------------------------------------------------------------------
+20-03-2025
+
+1. HTML - For designing Webpages
+2. CSS - for styling of a Webpage
+3. Made HTML Intro page and Layout
+-----------------------------------------------------------------------------
