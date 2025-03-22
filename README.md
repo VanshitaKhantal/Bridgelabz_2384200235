@@ -254,3 +254,9 @@
 2. Webpages Connected with Backend
 3. Angular Helloworld App
 -----------------------------------------------------------------------------
+22-03-2025
+
+1. Angular Components
+2. Angular Bindings
+3. Created a BridgeLabz app using Angular CLI
+-----------------------------------------------------------------------------
