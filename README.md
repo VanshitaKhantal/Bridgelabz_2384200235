@@ -248,3 +248,9 @@
 2. CSS - for styling of a Webpage
 3. Made HTML Intro page and Layout
 -----------------------------------------------------------------------------
+21-03-2025
+
+1. Login and Register webpage using HTML and CSS
+2. Webpages Connected with Backend
+3. Angular Helloworld App
+-----------------------------------------------------------------------------
